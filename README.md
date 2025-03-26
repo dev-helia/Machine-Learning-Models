@@ -8,3 +8,5 @@
 3. 建立模型: cost function + gradient
 4. 训练: gradient descent iteration (through predict)
 5. 可视化结果
+
+### 目录:
