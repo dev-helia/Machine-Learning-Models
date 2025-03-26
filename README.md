@@ -17,16 +17,6 @@
 
 ---
 
-## 🎬 Demo Previews
-
-<p align="center">
-  <img src="https://your-image-host/linear_regression.gif" width="250">
-  <img src="https://your-image-host/logistic_boundary.gif" width="250">
-  <img src="https://your-image-host/kmeans.gif" width="250">
-</p>
-
----
-
 ## 📁 Project Structure
 
 | Filename | Model Description | Type |
