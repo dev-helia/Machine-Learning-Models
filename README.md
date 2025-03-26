@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-image-host/logo.png" width="200" alt="ML Practice Logo">
-</p>
+
 
 <h1 align="center">Machine Learning Practice 🌟</h1>
 <p align="center">
