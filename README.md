@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Machine Learning Practice 🌟</h1>
+<h1 align="center">Machine Learning Practice</h1>
 <p align="center">
   A collection of beginner-friendly, hand-crafted machine learning models with visualizations!<br>
-  Perfect for building intuition, observing classifiers, and understanding ML from the ground up 💡📊💖
+  Perfect for building intuition, observing classifiers, and understanding ML from the ground up 
 </p>
 
 <p align="center">
@@ -33,27 +33,21 @@
 
 ---
 
-## 🧭 How It Works
+## How It Works
 
-1. 📊 Generate synthetic data (manually)
-2. 🧮 Define the model (cost + gradient)
-3. 🔧 Train using gradient descent / rules
-4. 👀 Visualize decision boundaries / fit curves
-5. 🎉 Interpret results and iterate!
-
----
-
-## 💡 Highlights
-
-- Beginner-friendly explanations with clean code ✨
-- All models from scratch (no sklearn) 🧠
-- Easy to visualize and tweak 🔧
-- Great for learning by doing 🌱
+1. Generate synthetic data (manually)
+2. Define the model (cost + gradient)
+3. Train using gradient descent / rules
+4. Visualize decision boundaries / fit curves
+5. Interpret results and iterate!
 
 ---
 
-## 🌸 Let’s Connect!
+## Highlights
 
-> Made with 💕 by Helia(He Tao).
-> Contributions, feedback, and stars are super welcome! ⭐
+- Beginner-friendly explanations with clean code 
+- All models from scratch (no sklearn) 
+- Easy to visualize and tweak 
+- Great for learning by doing 
+
 
