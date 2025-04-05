@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Machine Learning Practice</h1>
+<h1 align="center">🍣 Machine Learning Practice</h1>
 <p align="center">
   A collection of beginner-friendly, hand-crafted machine learning models with visualizations!<br>
   Perfect for building intuition, observing classifiers, and understanding ML from the ground up 
@@ -14,6 +14,7 @@
 </p>
 
 ---
+
 
 ## Project Structure
 
